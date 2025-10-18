@@ -32,16 +32,16 @@ time: For handling time in digital clock, stopwatch, and timer
 ## Screenshots 
 
 ### Digital Clock 
-<img https://github.com/shailza-30/Multi-Feature-Clock/blob/main/Screenshot%202025-10-18%20180922.png?raw=true />
+![Digital Clock] (https://github.com/shailza-30/Multi-Feature-Clock/blob/main/Screenshot%202025-10-18%20180922.png?raw=true)
 
 ### World Clock 
-<img https://github.com/shailza-30/Multi-Feature-Clock/blob/main/Screenshot%202025-10-18%20180958.png?raw=true />
+![World Clock] (https://github.com/shailza-30/Multi-Feature-Clock/blob/main/Screenshot%202025-10-18%20180958.png?raw=true)
 
 ### Stopwatch
-<img https://github.com/shailza-30/Multi-Feature-Clock/blob/main/Screenshot%202025-10-18%20181121.png?raw=true />
+![Stopwatch] (https://github.com/shailza-30/Multi-Feature-Clock/blob/main/Screenshot%202025-10-18%20181121.png?raw=true)
 
 ### Timer
-<img https://github.com/shailza-30/Multi-Feature-Clock/blob/main/Screenshot%202025-10-18%20181130.png?raw=true />
+![Timer] (https://github.com/shailza-30/Multi-Feature-Clock/blob/main/Screenshot%202025-10-18%20181130.png?raw=true)
 
 ---
 
